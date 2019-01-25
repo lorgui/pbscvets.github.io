@@ -1,2 +1,2 @@
 # pbscvets.github.io
-Palm Beach State College Vets Club
+Palm Beach State College Veterans Club
