@@ -1,2 +1,2 @@
-# pbsctechclub.github.io
-Palm Beach State College Tech Club
+# pbscvets.github.io
+Palm Beach State College Vets Club
